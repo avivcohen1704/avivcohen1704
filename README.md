@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Aviv
-- 🌱 I’m currently learning Computer Science at Tel Aviv University
-- 📫 U can reach me at Avivcohen889@gmail.com
-
-<!---
-avivcohen1704/avivcohen1704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Hi, I’m Aviv
+-  Currently at the end of the first semester of my second year at Tel Aviv University, majoring in
+Computer Science and highly motivated to evolve my skills and learn new ones.
+-  U can reach me at Avivcohen889@gmail.com
