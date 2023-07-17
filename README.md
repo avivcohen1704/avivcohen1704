@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aviv Cogen</h1>
+<h1 align="center">Hi 👋, I'm Aviv Cohen</h1>
 <h3 align="center">I'm just finished my second year of Computer Science BSc. at Tel Aviv University</h3>
 
 <h3 align="left">Connect with me:</h3>
