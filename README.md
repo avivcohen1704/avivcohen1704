@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Aviv Cohen</h1>
 <h3 align="center">I'm just finished my second year of Computer Science BSc. at Tel Aviv University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avivcohen1704&label=Profile%20views&color=48b40e&style=flat" alt="avivcohen1704" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avivcohen1704" alt="avivcohen1704" /></a> </p>
 
 - 📫 How to reach me **Avivcohen889@gmail.com**
 
