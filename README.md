@@ -18,11 +18,16 @@ I'm currently starting my third year of a Computer Science BSc at Tel Aviv Unive
 ### 🚀 Projects
 Here are some of the projects I've worked on, which showcase my skills and interests in various areas of computer science:
 
-- **Spectral-Clustering-API**: An API designed for efficient spectral clustering, ideal for data science applications.
+- **Spectral-Clustering-API**: This project encompasses the development of an API designed to facilitate spectral clustering operations, showcasing my ability to apply advanced machine learning techniques. By leveraging the eigenvalues of similarity matrices for dimensionality reduction and clustering, the API provides a powerful tool for uncovering the natural grouping of data. This project highlights my skills in machine learning, algorithm implementation, and API design, demonstrating a sophisticated understanding of data-driven problem solving.
+
 - **Parallel-Queue**: A high-performance, thread-safe queue implemented using parallel computing techniques.
+
 - **AVLTreeList**: A Python implementation of the AVL Tree List, showcasing advanced data structure manipulation and algorithmic proficiency. This project highlights my understanding of self-balancing binary search trees, specifically AVL trees, and their application in maintaining efficiently sorted data structures. The implementation demonstrates key computer science concepts, including tree rotations, balance factor maintenance, and operations like insertions, deletions, and lookups with optimal time complexity.
+
 - **HashTable**: This project delves into the implementation and analysis of various hash table data structures in Java, covering collision resolution strategies like Linear Probing, Quadratic Probing, Double Hashing, and Open Addressing. It demonstrates my deep understanding of hash tables, including custom hash functions (ModHash), element management (HashTableElement), and performance analysis (Research.java). The project underscores my proficiency in algorithm implementation and data structure optimization, showcasing my ability to tackle complex algorithmic challenges.
+
 - **Notes-App**: A Node.js-based command-line application for managing personal notes. It allows users to add, remove, list, and read notes efficiently, utilizing file system operations for data persistence. With a straightforward CLI interface, it leverages packages like `yargs` for command parsing and `chalk` for colorful console output, showcasing my ability to create practical and user-friendly applications with Node.js.
+ 
 - **Starfleet**: A sophisticated Java application that simulates the management of a starfleet, including various types of spacecraft and crew members. This project demonstrates my proficiency in object-oriented programming, leveraging Java's polymorphism, inheritance, and interface-based design to create a detailed simulation that includes spacecraft classification, crew management, and operations. It highlights my ability to design and implement complex systems with clear object-oriented principles and Java programming.
 
 ### 🔧 Languages and Tools
